@@ -1,4 +1,4 @@
-# React UI Toolkit for Mobile Web or Web
+# Pretty UI tool-kit for React web or mobile web
 
 ## Development
 
